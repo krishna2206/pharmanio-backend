@@ -46,7 +46,7 @@ Returns all pharmacies in a specific city.
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/krishna2206/pharmanio-backend.git
    cd pharmanio-backend
    ```
 
@@ -81,21 +81,6 @@ The API will be available at `http://localhost:8000`
 Once the server is running, you can access:
 - **Interactive API docs**: `http://localhost:8000/docs`
 - **Alternative docs**: `http://localhost:8000/redoc`
-
-## Project Structure
-
-```
-pharmanio-backend/
-├── main.py                 # FastAPI application
-├── database.py            # Database initialization and schema
-├── scraper.py             # Web scraper for on-duty pharmacy data
-├── dataset_converter.py   # JSON to SQLite converter
-├── coordinates_finder.py  # Interactive coordinate finder tool
-├── requirements.txt       # Python dependencies
-├── README.md             # This file
-├── pharmacies.db         # SQLite database (created after setup)
-└── dataset.json          # Source JSON data (optional)
-```
 
 ## Database Schema
 
@@ -191,36 +176,9 @@ uvicorn main:app --reload --host 0.0.0.0 --port 8000
 3. Convert the updated JSON to database format
 4. Restart the API
 
-## Configuration
-
-### Environment Variables
-- `DB_FILE`: SQLite database file path (default: `pharmacies.db`)
-
-### API Configuration
-- Host: `0.0.0.0` (configurable in `main.py`)
-- Port: `8000` (configurable in `main.py`)
-- Title: "PharmAnio API"
-- Version: "1.0.0"
-
-## Error Handling
-
-The API includes comprehensive error handling:
-- **404**: Resource not found (e.g., no pharmacies in specified city)
-- **500**: Database errors or internal server errors
-- Detailed error messages in JSON format
-
 ## Contributing
 
 1. Fork the repository
 2. Create a feature branch
 3. Make your changes
-4. Add tests if applicable
-5. Submit a pull request
-
-## License
-
-This project is licensed under the MIT License.
-
-## Support
-
-For support or questions, please open an issue in the repository.
+4. Submit a pull request
