@@ -70,10 +70,10 @@ async def startup_event():
 
     scheduler.start()
 
-    # Schedule the check to run daily at 6 AM
+    # Schedule the check to run daily at midnight (00:00 AM)
     scheduler.add_job(
         check_and_update_on_duty,
-        CronTrigger(hour=6, minute=0),
+        CronTrigger(hour=0, minute=0),
         id="check_on_duty_expiry",
         replace_existing=True,
     )
