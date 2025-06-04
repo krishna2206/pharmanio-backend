@@ -1,0 +1,1286 @@
+[
+  {
+    "city": "Antananarivo",
+    "pharmacies": [
+      {
+        "name": "67HA",
+        "address": "face Eglise Luthérienne",
+        "phone": [
+          "020 78 253 61"
+        ],
+        "coordinates": {
+          "lat": -18.9081569,
+          "lon": 47.5079286
+        }
+      },
+      {
+        "name": "AICHA",
+        "address": "Près CENAM 67ha",
+        "phone": [
+          "034 74 687 24"
+        ],
+        "coordinates": {
+          "lat": -18.9133706,
+          "lon": 47.5084897
+        }
+      },
+      {
+        "name": "AMBANIDIA",
+        "address": "Ambanidia",
+        "phone": [
+          "020 78 255 50",
+          "033 05 255 50"
+        ],
+        "coordinates": {
+          "lat": -18.9183808,
+          "lon": 47.5394735
+        }
+      },
+      {
+        "name": "AMBODIVONA",
+        "address": "Ambodivona",
+        "phone": [
+          "034 07 228 98"
+        ],
+        "coordinates": {
+          "lat": -18.8936555,
+          "lon": 47.5278474
+        }
+      },
+      {
+        "name": "AMBONDRONA",
+        "address": "Rez de chaussée FJKM Ambondrona",
+        "phone": [
+          "037 05 207 53",
+          "038 15 207 53"
+        ]
+      },
+      {
+        "name": "AMPANDRANA",
+        "address": "Ampandrana",
+        "phone": [
+          "034 19 341 82",
+          "034 64 460 99"
+        ],
+        "coordinates": {
+          "lat": -18.9055755,
+          "lon": 47.5337566
+        }
+      },
+      {
+        "name": "ANALAKELY",
+        "address": "En face TAHALA RARIHASINA",
+        "phone": [
+          "033 90 338 34",
+          "034 48 788 96"
+        ],
+        "coordinates": {
+          "lat": -18.9084341,
+          "lon": 47.5257355
+        }
+      },
+      {
+        "name": "ANDOHATAPENAKA",
+        "address": "67ha sud Route FDC près station Galana",
+        "phone": [
+          "032 12 670 70",
+          "034 02 670 70"
+        ],
+        "coordinates": {
+          "lat": -18.9105715,
+          "lon": 47.5037384
+        }
+      },
+      {
+        "name": "ANDRAVOAHANGY",
+        "address": "Andravoahangy (Près Epi d'or)",
+        "phone": [
+          "020 22 245 12",
+          "038 22 245 12"
+        ],
+        "coordinates": {
+          "lat": -18.900547,
+          "lon": 47.5310027
+        }
+      },
+      {
+        "name": "ANJA",
+        "address": "Analamahitsy",
+        "phone": [
+          "034 51 149 73"
+        ],
+        "coordinates": {
+          "lat": -18.8774259,
+          "lon": 47.5460841
+        }
+      },
+      {
+        "name": "ANKADIFOTSY",
+        "address": "Arrêt bus Ankadifotsy",
+        "phone": [
+          "034 22 222 07",
+          "038 22 314 01"
+        ],
+        "coordinates": {
+          "lat": -18.8994313,
+          "lon": 47.5258842
+        }
+      },
+      {
+        "name": "ANKAZOMANGA",
+        "address": "Ankazomanga",
+        "phone": [
+          "032 12 714 17",
+          "034 12 714 17"
+        ],
+        "coordinates": {
+          "lat": -18.8922311,
+          "lon": 47.5145054
+        }
+      },
+      {
+        "name": "ANKAZOTOKANA",
+        "address": "à 600m Jumbo score vers Ambanidia",
+        "phone": [
+          "020 76 354 42"
+        ],
+        "coordinates": {
+          "lat": -18.9164964,
+          "lon": 47.5357231
+        }
+      },
+      {
+        "name": "CAPITALE",
+        "address": "Rond point Ankazomanga",
+        "phone": [
+          "033 28 693 88",
+          "034 25 610 00"
+        ],
+        "coordinates": {
+          "lat": -18.893932,
+          "lon": 47.5159004
+        }
+      },
+      {
+        "name": "D'IVANDRY",
+        "address": "Ivandry",
+        "phone": [
+          "033 11 549 76",
+          "038 12 549 77"
+        ],
+        "coordinates": {
+          "lat": -18.8713008,
+          "lon": 47.5348753
+        }
+      },
+      {
+        "name": "DE LA CROIX DU SUD",
+        "address": "Antanimena en face imprimerie NIAG",
+        "phone": [
+          "032 05 656 56",
+          "038 06 656 56"
+        ]
+      },
+      {
+        "name": "DE LA GRANDE ILE",
+        "address": "En face HJRA Anosy",
+        "phone": [
+          "032 11 220 11",
+          "038 37 007 07"
+        ],
+        "coordinates": {
+          "lat": -18.9195948,
+          "lon": 47.5204547
+        }
+      },
+      {
+        "name": "DE LA PERGOLA",
+        "address": "Antaninarenina",
+        "phone": [
+          "033 51 510 70",
+          "034 19 733 95"
+        ],
+        "coordinates": {
+          "lat": -18.9116038,
+          "lon": 47.5269289
+        }
+      },
+      {
+        "name": "DE L'AVENUE",
+        "address": "Andohan'Analakely en bas BNI",
+        "phone": [
+          "038 20 207 06",
+          "038 20 207 07"
+        ]
+      },
+      {
+        "name": "H",
+        "address": "Andrefan'Ambohijanahary",
+        "phone": [
+          "032 05 111 65",
+          "034 14 011 65"
+        ]
+      },
+      {
+        "name": "HANITRA",
+        "address": "Ankorahotra",
+        "phone": [
+          "020 76 350 80",
+          "020 79 312 81"
+        ],
+        "coordinates": {
+          "lat": -18.9162737,
+          "lon": 47.5371404
+        }
+      },
+      {
+        "name": "HERIZO",
+        "address": "Antanimena face Eglise Catholique",
+        "phone": [
+          "020 79 697 22"
+        ],
+        "coordinates": {
+          "lat": -18.898271,
+          "lon": 47.5231092
+        }
+      },
+      {
+        "name": "IARIVO",
+        "address": "Analakely en face Institut d'hygiène sociale",
+        "phone": [
+          "034 16 326 06",
+          "038 67 450 84"
+        ]
+      },
+      {
+        "name": "ISORAKA",
+        "address": "Isoraka",
+        "phone": [
+          "020 76 694 12"
+        ],
+        "coordinates": {
+          "lat": -18.9108013,
+          "lon": 47.522007
+        }
+      },
+      {
+        "name": "ITOKIANA",
+        "address": "Manakambahiny",
+        "phone": [
+          "034 84 322 64"
+        ],
+        "coordinates": {
+          "lat": -18.9293676,
+          "lon": 47.537859
+        }
+      },
+      {
+        "name": "M PHARMACIE",
+        "address": "Ambalavao Isotry en face assurance MAMA",
+        "phone": [
+          "020 22 665 22",
+          "034 02 652 55"
+        ],
+        "coordinates": {
+          "lat": -18.9097972,
+          "lon": 47.5167184
+        }
+      },
+      {
+        "name": "MAHAFALY",
+        "address": "Soavimasoandro près terminus bus 165 Mahatony",
+        "phone": [
+          "034 10 937 11"
+        ],
+        "coordinates": {
+          "lat": -18.8636374,
+          "lon": 47.5194368
+        }
+      },
+      {
+        "name": "MAHAMASINA",
+        "address": "Mahamasina",
+        "phone": [
+          "033 47 545 58",
+          "034 07 545 58"
+        ],
+        "coordinates": {
+          "lat": -18.9208004,
+          "lon": 47.5241973
+        }
+      },
+      {
+        "name": "MAHASOAVA",
+        "address": "Près BNI Antsakaviro",
+        "phone": [
+          "020 78 329 85",
+          "034 14 525 52"
+        ],
+        "coordinates": {
+          "lat": -18.9120918,
+          "lon": 47.5366463
+        }
+      },
+      {
+        "name": "MAHAVOKY",
+        "address": "Mahavoky Andravoahangy",
+        "phone": [
+          "020 85 255 51",
+          "034 89 056 09"
+        ],
+        "coordinates": {
+          "lat": -18.8994027,
+          "lon": 47.5330851
+        }
+      },
+      {
+        "name": "MAEVASOA",
+        "address": "Enceinte immeuble Castello Anosizato",
+        "phone": [
+          "034 05 186 69",
+          "034 39 186 69"
+        ],
+        "coordinates": {
+          "lat": -18.9399962,
+          "lon": 47.5014563
+        }
+      },
+      {
+        "name": "MAMY",
+        "address": "67HA Nord Est",
+        "phone": [
+          "032 26 859 84",
+          "033 74 154 87"
+        ],
+        "coordinates": {
+          "lat": -18.9027674,
+          "lon": 47.5116194
+        }
+      },
+      {
+        "name": "MANJAKARAY",
+        "address": "Lot II D Ter Manjakaray",
+        "phone": [
+          "032 12 456 78",
+          "038 11 456 87"
+        ]
+      },
+      {
+        "name": "METROPOLE",
+        "address": "Antaninarenina",
+        "phone": [
+          "032 07 101 71",
+          "033 15 200 25"
+        ],
+        "coordinates": {
+          "lat": -18.9107553,
+          "lon": 47.5259551
+        }
+      },
+      {
+        "name": "MIARO",
+        "address": "Galerie ARO Ampefiloha",
+        "phone": [
+          "020 79 621 18",
+          "032 05 224 32"
+        ],
+        "coordinates": {
+          "lat": -18.9127248,
+          "lon": 47.518133
+        }
+      },
+      {
+        "name": "NAMONTANA",
+        "address": "Namontana",
+        "phone": [
+          "034 23 899 93"
+        ],
+        "coordinates": {
+          "lat": -18.9361048,
+          "lon": 47.5154655
+        }
+      },
+      {
+        "name": "NANISANA",
+        "address": "Nanisana ladiambola arrêt bus sapin",
+        "phone": [
+          "032 03 520 29",
+          "034 05 750 29"
+        ],
+        "coordinates": {
+          "lat": -18.8893598,
+          "lon": 47.5489988
+        }
+      },
+      {
+        "name": "NOUVELLE",
+        "address": "Rue Indira Gandhi Tsaralalana",
+        "phone": [
+          "020 76 370 03",
+          "034 22 370 03"
+        ],
+        "coordinates": {
+          "lat": -18.9064819,
+          "lon": 47.5224562
+        }
+      },
+      {
+        "name": "NY AINA",
+        "address": "Andravoahangy Ampony",
+        "phone": [
+          "020 76 229 95",
+          "032 11 229 97"
+        ],
+        "coordinates": {
+          "lat": -18.9012023,
+          "lon": 47.5317702
+        }
+      },
+      {
+        "name": "OCEAN INDIEN",
+        "address": "Analakely avenue de l'indépendance",
+        "phone": [
+          "032 11 224 70",
+          "033 05 224 70"
+        ],
+        "coordinates": {
+          "lat": -18.9052159,
+          "lon": 47.5223005
+        }
+      },
+      {
+        "name": "RABARISOA",
+        "address": "Andravoahangy (près BOA ex imm SOLOPRIX)",
+        "phone": [
+          "032 03 389 39",
+          "034 07 229 86"
+        ],
+        "coordinates": {
+          "lat": -18.8966983,
+          "lon": 47.5297953
+        }
+      },
+      {
+        "name": "RAKOTOARIVONY",
+        "address": "Analakely en face lycée Rabearivelo",
+        "phone": [
+          "033 31 222 05",
+          "034 45 222 05"
+        ],
+        "coordinates": {
+          "lat": -18.9064447,
+          "lon": 47.5253111
+        }
+      },
+      {
+        "name": "RALISON",
+        "address": "Antanimena",
+        "phone": [
+          "034 44 429 51"
+        ],
+        "coordinates": {
+          "lat": -18.8972496,
+          "lon": 47.5212459
+        }
+      },
+      {
+        "name": "RAZAFIMANDRANTO",
+        "address": "Analakely en face esplanade pavillons",
+        "phone": [
+          "032 12 736 66",
+          "034 98 742 23"
+        ],
+        "coordinates": {
+          "lat": -18.9087388,
+          "lon": 47.5261232
+        }
+      },
+      {
+        "name": "SAKAIZA",
+        "address": "Antohamadinika",
+        "phone": [
+          "032 12 002 03",
+          "034 92 159 03"
+        ],
+        "coordinates": {
+          "lat": -18.8997099,
+          "lon": 47.5139731
+        }
+      },
+      {
+        "name": "SANTE",
+        "address": "Behoririka 1ère à droite après Station Shell",
+        "phone": [
+          "033 12 434 73",
+          "034 70 684 04"
+        ],
+        "coordinates": {
+          "lat": -18.9018394,
+          "lon": 47.5255866
+        }
+      },
+      {
+        "name": "SOANDRY",
+        "address": "Behoririka près de Luxor",
+        "phone": [
+          "033 11 650 36",
+          "034 98 379 12"
+        ],
+        "coordinates": {
+          "lat": -18.902108,
+          "lon": 47.5284599
+        }
+      },
+      {
+        "name": "SOARY",
+        "address": "ladiambola Ampasapito",
+        "phone": [
+          "032 11 248 05",
+          "038 11 248 05"
+        ],
+        "coordinates": {
+          "lat": -18.8942123,
+          "lon": 47.5491196
+        }
+      },
+      {
+        "name": "TANA",
+        "address": "Antsahavola",
+        "phone": [
+          "033 05 207 17",
+          "034 05 207 17"
+        ],
+        "coordinates": {
+          "lat": -18.9080615,
+          "lon": 47.5215299
+        }
+      },
+      {
+        "name": "TOKY",
+        "address": "Andrefan'Ambohijanahary",
+        "phone": [
+          "034 11 264 42",
+          "034 11 264 50"
+        ],
+        "coordinates": {
+          "lat": -18.9199455,
+          "lon": 47.5217999
+        }
+      },
+      {
+        "name": "TSARA",
+        "address": "Andavamamba, route pavée",
+        "phone": [
+          "020 22 347 12",
+          "034 21 111 14"
+        ],
+        "coordinates": {
+          "lat": -18.9179859,
+          "lon": 47.5092746
+        }
+      },
+      {
+        "name": "VOLAHANTA",
+        "address": "Anosibe près du rond point vers Soanierana",
+        "phone": [
+          "020 78 355 09",
+          "034 34 334 86"
+        ],
+        "coordinates": {
+          "lat": -18.9294848,
+          "lon": 47.5098787
+        }
+      }
+    ]
+  },
+  {
+    "city": "Antsirabe",
+    "pharmacies": [
+      {
+        "name": "AINA VAOVAO",
+        "address": null,
+        "phone": [
+          "020 44 488 47"
+        ]
+      },
+      {
+        "name": "ANDO",
+        "address": null,
+        "phone": [
+          "020 44 481 43"
+        ]
+      },
+      {
+        "name": "ASABOTSY",
+        "address": null,
+        "phone": [
+          "020 44 483 43"
+        ]
+      },
+      {
+        "name": "FINARITRA",
+        "address": null,
+        "phone": [
+          "020 44 494 82"
+        ]
+      },
+      {
+        "name": "ILAINA",
+        "address": null,
+        "phone": [
+          "020 44 499 62",
+          "020 78 499 62"
+        ],
+        "coordinates": {
+          "lat": -19.8407645,
+          "lon": 47.0377037
+        }
+      },
+      {
+        "name": "MAHASOA",
+        "address": null,
+        "phone": [
+          "020 44 489 67"
+        ],
+        "coordinates": {
+          "lat": -19.8730313,
+          "lon": 47.0336556
+        }
+      },
+      {
+        "name": "SITRAKA",
+        "address": null,
+        "phone": [
+          "020 44 484 77"
+        ],
+        "coordinates": {
+          "lat": -19.8631389,
+          "lon": 47.0285569
+        }
+      },
+      {
+        "name": "TIA",
+        "address": null,
+        "phone": [
+          "020 44 483 12"
+        ]
+      },
+      {
+        "name": "VAO",
+        "address": null,
+        "phone": [
+          "020 44 481 34"
+        ],
+        "coordinates": {
+          "lat": -19.852592,
+          "lon": 47.0324125
+        }
+      },
+      {
+        "name": "VAKINANKARATRA",
+        "address": null,
+        "phone": [
+          "020 44 482 14"
+        ],
+        "coordinates": {
+          "lat": -19.8733125,
+          "lon": 47.0309548
+        }
+      }
+    ]
+  },
+  {
+    "city": "Antsiranana",
+    "pharmacies": [
+      {
+        "name": "AVENIR",
+        "address": "Rue Dr Syedna Brhanuddin",
+        "phone": [
+          "032 46 509 19",
+          "032 93 225 20"
+        ]
+      },
+      {
+        "name": "ESPERANCE",
+        "address": "80 Rue Colbert",
+        "phone": [
+          "032 44 115 80"
+        ],
+        "coordinates": {
+          "lat": -12.2773986,
+          "lon": 49.2917261
+        }
+      },
+      {
+        "name": "HENINTSOA",
+        "address": "Rue Justin Bezara",
+        "phone": [
+          "032 02 386 12"
+        ]
+      },
+      {
+        "name": "ISSA",
+        "address": "Sainte Marie Tanambao",
+        "phone": [
+          "032 02 239 08",
+          "034 05 664 06"
+        ]
+      },
+      {
+        "name": "MAHASOA",
+        "address": "Tanambao ST Marie",
+        "phone": [
+          "032 78 826 04"
+        ]
+      },
+      {
+        "name": "MORA",
+        "address": "2 rue Kodjas, place Kabars",
+        "phone": [
+          "032 27 427 02"
+        ],
+        "coordinates": {
+          "lat": -12.2719646,
+          "lon": 49.2923796
+        }
+      },
+      {
+        "name": "OLGA",
+        "address": "rue Commandant Marchand",
+        "phone": [
+          "020 82 219 72"
+        ],
+        "coordinates": {
+          "lat": -12.2697512,
+          "lon": 49.293694
+        }
+      },
+      {
+        "name": "SCAMA",
+        "address": "Imm Scama, route d'Ambolibe",
+        "phone": [
+          "032 03 250 23",
+          "034 53 250 23"
+        ],
+        "coordinates": {
+          "lat": -12.3148422,
+          "lon": 49.2948933
+        }
+      }
+    ]
+  },
+  {
+    "city": "Fianarantsoa",
+    "pharmacies": [
+      {
+        "name": "CENTRALE DU SUD",
+        "address": null,
+        "phone": [
+          "034 76 606 55"
+        ],
+        "coordinates": {
+          "lat": -21.4501893,
+          "lon": 47.0856997
+        }
+      },
+      {
+        "name": "DU BETSILEO",
+        "address": null,
+        "phone": [],
+        "coordinates": {
+          "lat": -21.442637,
+          "lon": 47.0908461
+        }
+      },
+      {
+        "name": "EZAKA",
+        "address": null,
+        "phone": [
+          "032 02 146 35"
+        ],
+        "coordinates": {
+          "lat": -21.4562854,
+          "lon": 47.0904926
+        }
+      },
+      {
+        "name": "LAM SECK",
+        "address": null,
+        "phone": [
+          "034 31 620 26"
+        ],
+        "coordinates": {
+          "lat": -21.4466694,
+          "lon": 47.089462
+        }
+      },
+      {
+        "name": "MAMISOA",
+        "address": null,
+        "phone": [
+          "034 65 917 42"
+        ],
+        "coordinates": {
+          "lat": -21.4328081,
+          "lon": 47.1110882
+        }
+      },
+      {
+        "name": "SANDRATRA",
+        "address": null,
+        "phone": [
+          "038 56 425 15"
+        ],
+        "coordinates": {
+          "lat": -21.4378465,
+          "lon": 47.1021298
+        }
+      },
+      {
+        "name": "SOAVA",
+        "address": null,
+        "phone": [
+          "032 38 454 50"
+        ],
+        "coordinates": {
+          "lat": -21.454069,
+          "lon": 47.0884095
+        }
+      },
+      {
+        "name": "VATOSOA",
+        "address": null,
+        "phone": [
+          "032 70 951 66"
+        ]
+      }
+    ]
+  },
+  {
+    "city": "Mahajanga",
+    "pharmacies": [
+      {
+        "name": "AINA",
+        "address": null,
+        "phone": [
+          "032 91 277 00",
+          "038 10 150 47"
+        ],
+        "coordinates": {
+          "lat": -15.7169579,
+          "lon": 46.3154358
+        }
+      },
+      {
+        "name": "ANAIS",
+        "address": null,
+        "phone": [
+          "032 28 742 99"
+        ],
+        "coordinates": {
+          "lat": -15.7195283,
+          "lon": 46.3201883
+        }
+      },
+      {
+        "name": "ANJARASOA",
+        "address": null,
+        "phone": [
+          "034 12 826 56"
+        ],
+        "coordinates": {
+          "lat": -15.7159664,
+          "lon": 46.3196524
+        }
+      },
+      {
+        "name": "AVENIR",
+        "address": null,
+        "phone": [
+          "034 62 923 03",
+          "034 71 313 35"
+        ],
+        "coordinates": {
+          "lat": -15.7216027,
+          "lon": 46.3124639
+        }
+      },
+      {
+        "name": "AVOTRA",
+        "address": null,
+        "phone": [
+          "034 50 854 48"
+        ],
+        "coordinates": {
+          "lat": -15.7079149,
+          "lon": 46.3202348
+        }
+      },
+      {
+        "name": "BELVEDERE",
+        "address": null,
+        "phone": [
+          "020 62 222 94",
+          "034 58 174 11"
+        ],
+        "coordinates": {
+          "lat": -15.7143119,
+          "lon": 46.3194172
+        }
+      },
+      {
+        "name": "BETSIBOKA",
+        "address": null,
+        "phone": [
+          "032 19 495 59",
+          "038 19 495 59"
+        ],
+        "coordinates": {
+          "lat": -15.723468,
+          "lon": 46.3106227
+        }
+      },
+      {
+        "name": "CENTRE",
+        "address": null,
+        "phone": [
+          "034 11 190 52"
+        ],
+        "coordinates": {
+          "lat": -15.7210067,
+          "lon": 46.3177669
+        }
+      },
+      {
+        "name": "HARINOSY",
+        "address": null,
+        "phone": [
+          "032 65 004 50",
+          "034 27 713 08"
+        ],
+        "coordinates": {
+          "lat": -15.7225157,
+          "lon": 46.3085577
+        }
+      },
+      {
+        "name": "MAEVAN'I BOENY",
+        "address": null,
+        "phone": [
+          "032 07 388 31"
+        ],
+        "coordinates": {
+          "lat": -15.7127459,
+          "lon": 46.3194226
+        }
+      },
+      {
+        "name": "MAHAVONJY",
+        "address": null,
+        "phone": [
+          "033 78 252 00",
+          "034 81 473 97"
+        ],
+        "coordinates": {
+          "lat": -15.7186916,
+          "lon": 46.326137
+        }
+      },
+      {
+        "name": "SAMBY TSARA",
+        "address": null,
+        "phone": [
+          "032 91 381 17",
+          "034 53 313 36",
+          "038 48 497 93"
+        ]
+      },
+      {
+        "name": "TAFITA",
+        "address": null,
+        "phone": [
+          "032 07 388 20",
+          "034 09 551 58",
+          "034 09 551 59"
+        ],
+        "coordinates": {
+          "lat": -15.6983822,
+          "lon": 46.3253694
+        }
+      },
+      {
+        "name": "TSIVAHINY",
+        "address": null,
+        "phone": [
+          "032 91 381 17",
+          "034 53 313 36"
+        ],
+        "coordinates": {
+          "lat": -15.7069105,
+          "lon": 46.3108081
+        }
+      }
+    ]
+  },
+  {
+    "city": "Toamasina",
+    "pharmacies": [
+      {
+        "name": "AMBININTSOA",
+        "address": null,
+        "phone": [
+          "032 64 311 51"
+        ],
+        "coordinates": {
+          "lat": -18.1546449,
+          "lon": 49.4094487
+        }
+      },
+      {
+        "name": "ANDRY",
+        "address": null,
+        "phone": [
+          "034 90 204 83"
+        ],
+        "coordinates": {
+          "lat": -18.1553881,
+          "lon": 49.4041488
+        }
+      },
+      {
+        "name": "ANJARA",
+        "address": null,
+        "phone": [
+          "034 84 633 23"
+        ],
+        "coordinates": {
+          "lat": -18.1430625,
+          "lon": 49.4071792
+        }
+      },
+      {
+        "name": "BAZARY BE",
+        "address": null,
+        "phone": [
+          "032 12 101 13"
+        ]
+      },
+      {
+        "name": "CENTRALE",
+        "address": null,
+        "phone": [
+          "034 90 335 81"
+        ]
+      },
+      {
+        "name": "DESTIN",
+        "address": null,
+        "phone": [
+          "034 12 747 31"
+        ]
+      },
+      {
+        "name": "DU COEUR",
+        "address": null,
+        "phone": [
+          "034 06 323 59"
+        ],
+        "coordinates": {
+          "lat": -18.1628848,
+          "lon": 49.4111246
+        }
+      },
+      {
+        "name": "JOYCIA",
+        "address": null,
+        "phone": [
+          "020 53 338 98"
+        ],
+        "coordinates": {
+          "lat": -18.1514712,
+          "lon": 49.4029249
+        }
+      },
+      {
+        "name": "LAHADY",
+        "address": null,
+        "phone": [
+          "020 53 325 31"
+        ],
+        "coordinates": {
+          "lat": -18.1566358,
+          "lon": 49.4160699
+        }
+      },
+      {
+        "name": "MAHATASARA",
+        "address": null,
+        "phone": [
+          "020 53 339 12"
+        ]
+      },
+      {
+        "name": "MIRINDRA",
+        "address": null,
+        "phone": [
+          "038 43 787 43"
+        ],
+        "coordinates": {
+          "lat": -18.1494214,
+          "lon": 49.4038681
+        }
+      },
+      {
+        "name": "NAHASY",
+        "address": null,
+        "phone": [
+          "020 53 352 81"
+        ]
+      },
+      {
+        "name": "NY ANTSIKA",
+        "address": null,
+        "phone": [
+          "034 16 603 19"
+        ],
+        "coordinates": {
+          "lat": -18.1523164,
+          "lon": 49.4046072
+        }
+      },
+      {
+        "name": "SOA",
+        "address": null,
+        "phone": [
+          "020 53 327 67"
+        ],
+        "coordinates": {
+          "lat": -18.1568929,
+          "lon": 49.4140739
+        }
+      },
+      {
+        "name": "SOAVINA",
+        "address": null,
+        "phone": [
+          "020 53 911 24"
+        ]
+      },
+      {
+        "name": "TSARASANDRY",
+        "address": null,
+        "phone": [
+          "020 53 336 40"
+        ],
+        "coordinates": {
+          "lat": -18.1506926,
+          "lon": 49.4089589
+        }
+      },
+      {
+        "name": "VELONAINA",
+        "address": null,
+        "phone": [
+          "034 86 323 48"
+        ]
+      },
+      {
+        "name": "VONJY",
+        "address": null,
+        "phone": [
+          "034 34 339 39"
+        ],
+        "coordinates": {
+          "lat": -18.1538724,
+          "lon": 49.3971791
+        }
+      }
+    ]
+  },
+  {
+    "city": "Toliara",
+    "pharmacies": [
+      {
+        "name": "FIHERENA",
+        "address": null,
+        "phone": [
+          "032 04 524 57"
+        ],
+        "coordinates": {
+          "lat": -23.3506373,
+          "lon": 43.6654602
+        }
+      },
+      {
+        "name": "LA CROIX D'OR",
+        "address": null,
+        "phone": [
+          "032 18 254 74",
+          "038 24 720 30"
+        ]
+      },
+      {
+        "name": "MAHAVATSE",
+        "address": null,
+        "phone": [
+          "032 02 025 56"
+        ],
+        "coordinates": {
+          "lat": -23.3612778,
+          "lon": 43.6708779
+        }
+      },
+      {
+        "name": "MEVA",
+        "address": null,
+        "phone": [
+          "034 19 841 57"
+        ],
+        "coordinates": {
+          "lat": -23.3506949,
+          "lon": 43.6722877
+        }
+      },
+      {
+        "name": "NY SOA",
+        "address": null,
+        "phone": [
+          "020 94 439 77"
+        ]
+      },
+      {
+        "name": "SANFILY",
+        "address": null,
+        "phone": [
+          "034 07 588 71"
+        ],
+        "coordinates": {
+          "lat": -23.3569092,
+          "lon": 43.6829971
+        }
+      },
+      {
+        "name": "TSODRANO",
+        "address": null,
+        "phone": [
+          "032 28 027 80"
+        ],
+        "coordinates": {
+          "lat": -23.3482683,
+          "lon": 43.6779727
+        }
+      },
+      {
+        "name": "ZANATANY",
+        "address": null,
+        "phone": [
+          "034 71 981 79"
+        ],
+        "coordinates": {
+          "lat": -23.356048,
+          "lon": 43.6820076
+        }
+      }
+    ]
+  }
+]
