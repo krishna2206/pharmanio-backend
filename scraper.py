@@ -1,5 +1,4 @@
 from contextlib import contextmanager
-from difflib import SequenceMatcher
 import json
 import logging
 import sqlite3
@@ -64,23 +63,18 @@ def _find_pharmacy_match(pharmacy_name: str, city: str) -> Optional[int]:
             logger.warning(f"No pharmacies found in city: {db_city}")
             return None
         
-        # Find the best match using string similarity
-        best_match = None
-        best_ratio = 0
+        # Remove "PHARMACIE" from scraped name and normalize
+        scraped_name = pharmacy_name.upper().replace("PHARMACIE", "").strip()
         
+        # Find match by checking if scraped name is included in database pharmacy names
         for pharmacy_id, db_name in pharmacies:
-            ratio = SequenceMatcher(None, pharmacy_name.lower(), db_name.lower()).ratio()
-            if ratio > best_ratio:
-                best_ratio = ratio
-                best_match = pharmacy_id
+            db_name_upper = db_name.upper()
+            if scraped_name in db_name_upper:
+                logger.info(f"Matched '{pharmacy_name}' -> '{db_name}' (contains '{scraped_name}')")
+                return pharmacy_id
         
-        # Only return match if similarity is above threshold
-        if best_ratio > SIMILARITY_THRESHOLD:
-            logger.info(f"Matched '{pharmacy_name}' with database pharmacy (similarity: {best_ratio:.2f})")
-            return best_match
-        else:
-            logger.warning(f"No good match found for '{pharmacy_name}' (best similarity: {best_ratio:.2f})")
-            return None
+        logger.warning(f"No match found for '{pharmacy_name}' ('{scraped_name}') in {db_city}")
+        return None
 
 
 def _update_on_duty_pharmacies(start_date: str, end_date: str, pharmacy_ids: List[int]):
@@ -114,7 +108,7 @@ def process_scraped_pharmacies(pharmacies: List[dict], start_date: str, end_date
     """Process scraped pharmacy data and update the database."""
     matched_pharmacy_ids = []
     logger.info("Searching for pharmacy matches in database...")
-    
+
     for pharmacy in pharmacies:
         pharmacy_name = pharmacy["name"]
         city = pharmacy["city"]
