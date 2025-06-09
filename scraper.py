@@ -14,7 +14,7 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 logger = logging.getLogger(__name__)
 
 TARGET_URL = "https://www.opham.com/urgence/pharmacie"
-SIMILARITY_THRESHOLD = 0.6  # 60% similarity threshold
+SIMILARITY_THRESHOLD = 0.4  # 60% similarity threshold
 REQUEST_TIMEOUT = 10
 
 
